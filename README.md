@@ -22,7 +22,7 @@
 - Methane Concentrations: [Sentinel-5P / TROPOMI](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_OFFL_L3_CH4)
 - Wetlands Data: [WWF Global Lakes & Wetlands Database](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)
 - Oil & Gas Infrastructure: [US Energy Information Administration](https://atlas.eia.gov/search?source=u.s.%2520energy%2520information%2520administration)_
-- -Landfills: [US Environmental Protection Agency](https://www.epa.gov/lmop/lmop-landfill-and-project-database)
+- Landfills: [US Environmental Protection Agency](https://www.epa.gov/lmop/lmop-landfill-and-project-database)
 
 
 
