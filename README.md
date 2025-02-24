@@ -1,13 +1,3 @@
-this project is to analyze relation of methane levels to the traditionally highest producing
-forms of methane production (LMAO). we started out with a  baseline by looking into the global average
-for methane levels in ppb (Parts per Billion), which according to NOAA at https://gml.noaa.gov/ccgg/trends_ch4/
-hovers around about 1900 ppb. we used this number as a baseline, when considering whether a place was considered high methane.
-we then took the most apparent reasons for methane emissions and overlayed them on a US map
-to see how things compared, and whether areas of high density of these high emissions things, also equated to it being a high emissions
-hotspot. to access the international methane data, i searched on google eaarth engine, using the 
-Copernicus Sentinel-5P offline methane dataset. i used this code to get the bands for the US:
-imported data from google drive into qgis for analysis and styling
-
 ## Overview
 - This project explores the relationship between methane concentrations and major methane emission sources in the U.S. 
 - Using Sentinel-5P satellite data, I identified areas with elevated methane levels (≥1900 ppb) and 
